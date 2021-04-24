@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Angular and react**
 
-- 👨‍💻 All of my projects are available at [technitish.me](technitish.me)
+- 👨‍💻 All of my projects are available at [www.technitish.me](technitish.me)
 
 - 📫 How to reach me **kumarnitish072001@gmail.com**
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <p align="left">
 
-<a href="https://twitter.com/technicalnitish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="technicalnitish" height="30" width="40" /></a>
+<a href="https://twitter.com/tecnicalnitish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="technicalnitish" height="30" width="40" /></a>
 
 <a href="https://linkedin.com/in/tecnicalnitish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="tecnicalnitish" height="30" width="40" /></a>
 
