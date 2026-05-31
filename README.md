@@ -1,33 +1,228 @@
-hi, i'm [Nitish](https://nitish.dev/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                        HEADER BANNER                         ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=technitish9123" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=technitish9123" height="150" alt="languages graph"  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:4169E1,100:00CED1&height=210&section=header&text=Nitish&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Blockchain%20Engineer%20%E2%80%A2%20Rust%20%E2%80%A2%20Solidity%20%E2%80%A2%20DeFi&descAlignY=56&descSize=20" width="100%" alt="header" />
 </div>
 
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                       TYPING ANIMATION                       ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<div align="center">
+  <a href="https://nitish.dev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00CED1&center=true&vCenter=true&width=620&height=45&lines=Blockchain+Engineer+%F0%9F%A6%80;Rust+%2B+Solidity+Developer;Building+Production-grade+DeFi+Infra;Smart+Contracts+%26+On-chain+Indexers;Turning+on-chain+data+into+insight" alt="Typing SVG" />
+  </a>
+</div>
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
-- 💬 ask me about anything, i am happy to help;
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                      SOCIAL / BADGES                         ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<div align="center">
+  <a href="https://nitish.dev"><img src="https://img.shields.io/badge/Portfolio-nitish.dev-00CED1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio" /></a>
+  <a href="mailto:nitishofficial78@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+  <!-- TODO: replace your-handle with your real handles -->
+  <a href="https://www.linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="https://x.com/your-handle"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="x" /></a>
+  <a href="https://www.buymeacoffee.com/technitish9123"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="bmc" /></a>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=technitish9123&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="views" />
+  <img src="https://img.shields.io/github/followers/technitish9123?label=Followers&style=for-the-badge&color=4169E1&logo=github" alt="followers" />
+</div>
 
-**languages and tools:**  
+<br/>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                          ABOUT ME                           ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-📊 **this week i spent my time on:**
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" />
+
+```typescript
+const nitish: BlockchainEngineer = {
+  location:   "India 🇮🇳",
+  role:       "Protocol / Blockchain Engineer",
+  focus:      ["DeFi", "Rust Indexers", "Smart Contracts"],
+  chains:     ["Ethereum", "Arbitrum", "Base", "Optimism"],
+  philosophy: "Contracts are the only source of truth.",
+  workflow:   "contract → implement → verify on-chain → ship",
+  openSource: true,
+};
+```
+
+- 🔭 &nbsp;I build **production-grade DeFi infrastructure** — high-throughput **Rust** indexers, on-chain analytics engines, and the APIs that power them.
+- ⛓️ &nbsp;I live in the **EVM**: smart contracts, event processing, chain reorgs, and treating **Solidity as the single source of truth**.
+- 🦀 &nbsp;Daily stack: **Rust** (Axum, Tokio, sqlx) + **PostgreSQL**, shipped on **AWS** with full CI/CD and observability.
+- 🌐 &nbsp;Self-taught **full-stack** dev who obsesses over experience, architecture, and code quality.
+- 🌱 &nbsp;Open-source enthusiast & maintainer — I learned everything from the community and love giving back.
+- 💬 &nbsp;Ask me about **Rust, DeFi protocols, smart contracts, indexers, or system design**.
+- 📫 &nbsp;Freelance work? → **nitishofficial78@gmail.com** &nbsp;|&nbsp; **[nitish.dev](https://nitish.dev)**
+
+<br clear="right"/>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                        TECH STACK                           ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+## 🛠️ Tech Stack
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+**Languages**
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**Blockchain & Web3**
+
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-2A2A2A?style=for-the-badge&logo=forge&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
+![ethers.js](https://img.shields.io/badge/ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
+![viem](https://img.shields.io/badge/viem-1B1B1F?style=for-the-badge&logo=ethereum&logoColor=white)
+![The Graph](https://img.shields.io/badge/The%20Graph-6747ED?style=for-the-badge&logo=thegraph&logoColor=white)
+![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
+
+**Chains (EVM)**
+
+![Arbitrum](https://img.shields.io/badge/Arbitrum-213147?style=for-the-badge&logo=arbitrum&logoColor=white)
+![Base](https://img.shields.io/badge/Base-0052FF?style=for-the-badge&logo=coinbase&logoColor=white)
+![Optimism](https://img.shields.io/badge/Optimism-FF0420?style=for-the-badge&logo=optimism&logoColor=white)
+![Polygon](https://img.shields.io/badge/Polygon-7B3FE4?style=for-the-badge&logo=polygon&logoColor=white)
+
+  </td>
+  <td valign="top" width="50%">
+
+**Backend & APIs**
+
+![Axum](https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Tokio](https://img.shields.io/badge/Tokio-463343?style=for-the-badge&logo=rust&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+
+**DevOps & Observability**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+  </td>
+  </tr>
+</table>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                     FEATURED PROJECTS                       ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+## 🚀 Featured Projects
+
+<!-- NOTE: these pin cards use the public github-readme-stats instance, which can occasionally rate-limit (503). -->
+<!-- If a card looks broken, refresh later or self-host github-readme-stats for 100% reliability. -->
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/technitish9123/ethIndia_ccip-defi-lending">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=technitish9123&repo=ethIndia_ccip-defi-lending&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CED1&icon_color=8A2BE2" alt="CCIP DeFi Lending" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/technitish9123/mev-liquidity-fragmentation">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=technitish9123&repo=mev-liquidity-fragmentation&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CED1&icon_color=8A2BE2" alt="MEV Liquidity Fragmentation" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/technitish9123/solidity-vm-go">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=technitish9123&repo=solidity-vm-go&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CED1&icon_color=8A2BE2" alt="EVM in Go" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/technitish9123/leveraged-lido-staking1">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=technitish9123&repo=leveraged-lido-staking1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CED1&icon_color=8A2BE2" alt="Leveraged Lido Staking" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/technitish9123/tron-transfer">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=technitish9123&repo=tron-transfer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CED1&icon_color=8A2BE2" alt="TRON TRC20 Transfer" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/technitish9123/NFT-CANVAS-ART">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=technitish9123&repo=NFT-CANVAS-ART&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CED1&icon_color=8A2BE2" alt="NFT Canvas Art" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                       GITHUB STATS                          ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=technitish9123&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CED1&icon_color=8A2BE2&text_color=c9d1d9" alt="stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technitish9123&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CED1" alt="top langs" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=technitish9123&theme=tokyonight&hide_border=true&background=0D1117&ring=00CED1&fire=8A2BE2&currStreakLabel=00CED1" alt="streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=technitish9123&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
+</div>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                     CONTRIBUTION GRAPH                       ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=technitish9123&theme=tokyo-night&bg_color=0D1117&color=00CED1&line=8A2BE2&point=ffffff&hide_border=true&area=true" width="100%" alt="activity graph" />
+</div>
+
+<!-- Contribution snake — generated by .github/workflows/snake.yml (runs on push + every 12h). -->
+<!-- Renders once the workflow has run and created the "output" branch. -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/technitish9123/technitish9123/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/technitish9123/technitish9123/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/technitish9123/technitish9123/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    WEEKLY CODING (WAKATIME)                  ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+## ⏱️ Weekly Coding Breakdown
+
+<!-- Static snapshot. To make this auto-update, add the WakaTime action (athul/waka-readme) + WAKATIME_API_KEY secret. -->
 <!--START_SECTION:waka-->
-
 ```txt
 TypeScript   7 hrs 4 mins    ███████████████▓░░░░░░░░░   63.25 %
 HTML         2 hrs 55 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.13 %
@@ -35,25 +230,57 @@ Other        27 mins         █░░░░░░░░░░░░░░░░
 JSON         26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
 JavaScript   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
 ```
-
 <!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                        TODOIST STATS                        ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+## 🚧 Productivity
 
-<a href="https://www.buymeacoffee.com/technitish9123" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-🚧 **my todoist stats:**
+<!-- Static snapshot. To auto-update, add the Todoist action + TODOIST_API_KEY secret. -->
 <!-- TODO-IST:START -->
-🏆  8,004 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
+🏆 &nbsp;8,004 Karma Points &nbsp;&nbsp;|&nbsp;&nbsp; ✅ &nbsp;673 tasks completed &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ &nbsp;Longest streak: 10 days
 <!-- TODO-IST:END -->
 
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║              SPOTIFY NOW PLAYING (enable after setup)        ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<!--
+  🎧 OPTIONAL: "What I'm Vibing To" — Spotify now-playing widget.
+  To enable: visit https://spotify-github-profile.kittinan.vercel.app , log in with Spotify,
+  copy your UID, paste it below (replace YOUR_SPOTIFY_UID in both spots), then uncomment this block.
 
-📈 my github stats
+## 🎧 What I'm Vibing To
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=technitish9123&show_icons=true&theme=gotham" alt="nitish" />
+<div align="center">
+  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_UID">
+    <img src="https://spotify-github-profile.kittinan.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=00CED1&bar_color_cover=true" alt="Spotify now playing" />
+  </a>
+</div>
+-->
 
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                       DEV QUOTE                             ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
+</div>
 
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                          FOOTER                             ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<div align="center">
 
+### 💜 If you like what I do, consider supporting
+
+<a href="https://www.buymeacoffee.com/technitish9123" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" width="180" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CED1,50:4169E1,100:8A2BE2&height=120&section=footer" width="100%" alt="footer" />
+
+<i>⭐️ From <a href="https://github.com/technitish9123">Nitish</a> — building the on-chain future, one block at a time.</i>
+
+</div>
