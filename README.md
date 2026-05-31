@@ -138,46 +138,16 @@ const nitish: BlockchainEngineer = {
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 ## 🚀 Featured Projects
 
-<!-- NOTE: these pin cards use the public github-readme-stats instance, which can occasionally rate-limit (503). -->
-<!-- If a card looks broken, refresh later or self-host github-readme-stats for 100% reliability. -->
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/technitish9123/ethIndia_ccip-defi-lending">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=technitish9123&repo=ethIndia_ccip-defi-lending&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CED1&icon_color=8A2BE2" alt="CCIP DeFi Lending" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/technitish9123/mev-liquidity-fragmentation">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=technitish9123&repo=mev-liquidity-fragmentation&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CED1&icon_color=8A2BE2" alt="MEV Liquidity Fragmentation" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/technitish9123/solidity-vm-go">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=technitish9123&repo=solidity-vm-go&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CED1&icon_color=8A2BE2" alt="EVM in Go" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/technitish9123/leveraged-lido-staking1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=technitish9123&repo=leveraged-lido-staking1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CED1&icon_color=8A2BE2" alt="Leveraged Lido Staking" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/technitish9123/tron-transfer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=technitish9123&repo=tron-transfer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CED1&icon_color=8A2BE2" alt="TRON TRC20 Transfer" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/technitish9123/NFT-CANVAS-ART">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=technitish9123&repo=NFT-CANVAS-ART&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CED1&icon_color=8A2BE2" alt="NFT Canvas Art" />
-      </a>
-    </td>
-  </tr>
-</table>
+> A handwritten, always-reliable table (no rate-limited card images).
+
+| Project | What it does | Stack |
+|---------|--------------|-------|
+| 🔗 **[CCIP DeFi Lending](https://github.com/technitish9123/ethIndia_ccip-defi-lending)** | Cross-chain lending — supply collateral on one chain, borrow on another via **Chainlink CCIP**. Built at ETHIndia. | ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white) ![Chainlink](https://img.shields.io/badge/-Chainlink-375BD2?style=flat-square&logo=chainlink&logoColor=white) |
+| ⚡ **[MEV Liquidity Fragmentation](https://github.com/technitish9123/mev-liquidity-fragmentation)** | Research & simulations on MEV extracted from liquidity fragmented across venues. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| 🛠️ **[EVM in Go](https://github.com/technitish9123/solidity-vm-go)** | A minimal **Ethereum Virtual Machine** implemented from scratch in Go. | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
+| 📈 **[Leveraged Lido Staking](https://github.com/technitish9123/leveraged-lido-staking1)** | A looping strategy for leveraged liquid staking on **Lido** (stETH). | ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white) |
+| 💸 **[TRON TRC20 Transfer](https://github.com/technitish9123/tron-transfer)** | Go implementation for transferring **TRC20** tokens on the TRON blockchain. | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
+| 🎨 **[NFT Canvas Art](https://github.com/technitish9123/NFT-CANVAS-ART)** | Mint your own NFT tokens from generative canvas art. | ![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white) |
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║                       GITHUB STATS                          ║ -->
@@ -185,17 +155,28 @@ const nitish: BlockchainEngineer = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=technitish9123&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CED1&icon_color=8A2BE2&text_color=c9d1d9" alt="stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technitish9123&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CED1" alt="top langs" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=technitish9123&theme=tokyonight&hide_border=true&background=0D1117&ring=00CED1&fire=8A2BE2&currStreakLabel=00CED1" alt="streak" />
 </div>
 
+<!--
+  ⚠️  CLASSIC STATS CARD + TOP-LANGUAGES + TROPHY (disabled — broken images).
+  These depend on github-readme-stats / github-profile-trophy, whose PUBLIC
+  instances are frequently GitHub-rate-limited (503/402) and render as broken
+  images on your live profile.
+
+  TO ENABLE RELIABLY: self-host github-readme-stats on your own Vercel —
+  https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
+  Then replace `github-readme-stats.vercel.app` below with YOUR-INSTANCE.vercel.app
+  and uncomment this block.
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=technitish9123&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CED1&icon_color=8A2BE2&text_color=c9d1d9" alt="stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technitish9123&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CED1" alt="top langs" />
+</div>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=technitish9123&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
 </div>
+-->
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║                     CONTRIBUTION GRAPH                       ║ -->
@@ -207,7 +188,6 @@ const nitish: BlockchainEngineer = {
 </div>
 
 <!-- Contribution snake — generated by .github/workflows/snake.yml (runs on push + every 12h). -->
-<!-- Renders once the workflow has run and created the "output" branch. -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/technitish9123/technitish9123/output/github-contribution-grid-snake-dark.svg" />
