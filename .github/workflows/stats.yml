@@ -25,22 +25,40 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
+      # Only refresh when a private-inclusive PAT is configured. Without it the
+      # default GITHUB_TOKEN sees public data only (commits would drop from the
+      # private-inclusive value to public-only), so we SKIP and keep the
+      # committed cards intact. Add a classic PAT named METRICS_TOKEN
+      # (scopes: read:user, repo) to enable the daily refresh.
+      - name: Gate on METRICS_TOKEN
+        id: gate
+        env:
+          PAT: ${{ secrets.METRICS_TOKEN }}
+        run: |
+          if [ -n "$PAT" ]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "run=false" >> "$GITHUB_OUTPUT"
+            echo "::notice::METRICS_TOKEN not set — skipping refresh to preserve committed (private-inclusive) cards. Add the PAT to enable daily auto-refresh."
+          fi
+
       - uses: actions/checkout@v4
+        if: steps.gate.outputs.run == 'true'
 
       - uses: actions/setup-python@v5
+        if: steps.gate.outputs.run == 'true'
         with:
           python-version: "3.12"
 
       - name: Generate stat cards
+        if: steps.gate.outputs.run == 'true'
         env:
-          # Add a classic PAT named METRICS_TOKEN (scopes: read:user, repo) so
-          # commit counts stay private-inclusive. Falls back to the public-only
-          # GITHUB_TOKEN if the secret is absent.
-          GH_TOKEN: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
           GH_USER: ${{ github.repository_owner }}
         run: python3 scripts/gen_cards.py
 
       - name: Commit refreshed cards
+        if: steps.gate.outputs.run == 'true'
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
