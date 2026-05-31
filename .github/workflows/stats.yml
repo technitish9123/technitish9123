@@ -1,0 +1,53 @@
+name: Refresh GitHub Stat Cards
+
+on:
+  # Refresh once a day
+  schedule:
+    - cron: "30 1 * * *"
+  # Manual run from the Actions tab
+  workflow_dispatch:
+  # Regenerate when the generator/workflow changes
+  push:
+    branches: [main]
+    paths:
+      - "scripts/gen_cards.py"
+      - ".github/workflows/stats.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: stat-cards
+  cancel-in-progress: true
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate stat cards
+        env:
+          # Add a classic PAT named METRICS_TOKEN (scopes: read:user, repo) so
+          # commit counts stay private-inclusive. Falls back to the public-only
+          # GITHUB_TOKEN if the secret is absent.
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: python3 scripts/gen_cards.py
+
+      - name: Commit refreshed cards
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/*.svg
+          if git diff --staged --quiet; then
+            echo "No card changes."
+          else
+            git commit -m "chore: refresh GitHub stat cards [skip ci]"
+            git push
+          fi

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="209" viewBox="0 0 480 209" fill="none" role="img">
+  <rect x="0.5" y="0.5" rx="8" width="479" height="208" fill="#0d1117" stroke="#30363d"/>
+  <text x="25" y="35" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#00ced1">Most Used Languages</text>
+  <defs><clipPath id="bar"><rect x="25" y="55" width="430" height="10" rx="5"/></clipPath></defs>
+  <g clip-path="url(#bar)">
+  <rect x="25.0" y="55" width="212.96" height="10" fill="#3178c6"/>
+  <rect x="238.0" y="55" width="137.30" height="10" fill="#f1e05a"/>
+  <rect x="375.3" y="55" width="20.03" height="10" fill="#3572A5"/>
+  <rect x="395.3" y="55" width="18.89" height="10" fill="#AA6746"/>
+  <rect x="414.2" y="55" width="18.18" height="10" fill="#dea584"/>
+  <rect x="432.4" y="55" width="14.08" height="10" fill="#e34c26"/>
+  <rect x="446.4" y="55" width="8.56" height="10" fill="#663399"/>
+  </g>
+  <circle cx="35" cy="91" r="5" fill="#3178c6"/><text x="49" y="95" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13" fill="#c9d1d9">TypeScript</text><text x="185" y="95" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e" text-anchor="end">49.5%</text>
+  <circle cx="250" cy="91" r="5" fill="#f1e05a"/><text x="264" y="95" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13" fill="#c9d1d9">JavaScript</text><text x="400" y="95" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e" text-anchor="end">31.9%</text>
+  <circle cx="35" cy="117" r="5" fill="#3572A5"/><text x="49" y="121" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13" fill="#c9d1d9">Python</text><text x="185" y="121" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e" text-anchor="end">4.7%</text>
+  <circle cx="250" cy="117" r="5" fill="#AA6746"/><text x="264" y="121" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13" fill="#c9d1d9">Solidity</text><text x="400" y="121" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e" text-anchor="end">4.4%</text>
+  <circle cx="35" cy="143" r="5" fill="#dea584"/><text x="49" y="147" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13" fill="#c9d1d9">Rust</text><text x="185" y="147" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e" text-anchor="end">4.2%</text>
+  <circle cx="250" cy="143" r="5" fill="#e34c26"/><text x="264" y="147" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13" fill="#c9d1d9">HTML</text><text x="400" y="147" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e" text-anchor="end">3.3%</text>
+  <circle cx="35" cy="169" r="5" fill="#663399"/><text x="49" y="173" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13" fill="#c9d1d9">CSS</text><text x="185" y="173" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e" text-anchor="end">2.0%</text>
+</svg>
