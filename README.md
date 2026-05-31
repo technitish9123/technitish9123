@@ -188,32 +188,6 @@ const nitish: BlockchainEngineer = {
 </div>
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    WEEKLY CODING (WAKATIME)                  ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-## ⏱️ Weekly Coding Breakdown
-
-<!-- Static snapshot. To make this auto-update, add the WakaTime action (athul/waka-readme) + WAKATIME_API_KEY secret. -->
-<!--START_SECTION:waka-->
-```txt
-TypeScript   7 hrs 4 mins    ███████████████▓░░░░░░░░░   63.25 %
-HTML         2 hrs 55 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.13 %
-Other        27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
-JSON         26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
-JavaScript   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-```
-<!--END_SECTION:waka-->
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                        TODOIST STATS                        ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-## 🚧 Productivity
-
-<!-- Static snapshot. To auto-update, add the Todoist action + TODOIST_API_KEY secret. -->
-<!-- TODO-IST:START -->
-🏆 &nbsp;8,004 Karma Points &nbsp;&nbsp;|&nbsp;&nbsp; ✅ &nbsp;673 tasks completed &nbsp;&nbsp;|&nbsp;&nbsp; ⏳ &nbsp;Longest streak: 10 days
-<!-- TODO-IST:END -->
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║              SPOTIFY NOW PLAYING (enable after setup)        ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 ## 🎧 What I'm Vibing To
