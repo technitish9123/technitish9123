@@ -20,9 +20,8 @@
 <div align="center">
   <a href="https://nitish.dev"><img src="https://img.shields.io/badge/Portfolio-nitish.dev-00CED1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio" /></a>
   <a href="mailto:nitishofficial78@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
-  <!-- TODO: replace your-handle with your real handles -->
-  <a href="https://www.linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  <a href="https://x.com/your-handle"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="x" /></a>
+  <a href="https://www.linkedin.com/in/tecnicalnitish/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="https://x.com/Nekotish"><img src="https://img.shields.io/badge/X-%40Nekotish-000000?style=for-the-badge&logo=x&logoColor=white" alt="x" /></a>
   <a href="https://www.buymeacoffee.com/technitish9123"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="bmc" /></a>
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=technitish9123&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="views" />
