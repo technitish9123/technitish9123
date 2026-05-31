@@ -1,0 +1,69 @@
+name: Refresh Spotify Card
+
+on:
+  # Refresh every 2 hours
+  schedule:
+    - cron: "23 */2 * * *"
+  # Manual run from the Actions tab
+  workflow_dispatch:
+  # Regenerate when the generator/workflow changes
+  push:
+    branches: [main]
+    paths:
+      - "scripts/spotify_card.py"
+      - ".github/workflows/spotify.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: spotify-card
+  cancel-in-progress: true
+
+jobs:
+  spotify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      # Only refresh when the Spotify secrets exist; otherwise keep the
+      # committed (placeholder/last-known) card so the README is never broken.
+      - name: Gate on Spotify secrets
+        id: gate
+        env:
+          RT: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+        run: |
+          if [ -n "$RT" ]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "run=false" >> "$GITHUB_OUTPUT"
+            echo "::notice::Spotify secrets not set — skipping refresh (placeholder card preserved). Add SPOTIFY_* secrets to enable."
+          fi
+
+      - uses: actions/checkout@v4
+        if: steps.gate.outputs.run == 'true'
+
+      - uses: actions/setup-python@v5
+        if: steps.gate.outputs.run == 'true'
+        with:
+          python-version: "3.12"
+
+      - name: Generate Spotify card
+        if: steps.gate.outputs.run == 'true'
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+        run: python3 scripts/spotify_card.py
+
+      - name: Commit refreshed card
+        if: steps.gate.outputs.run == 'true'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/spotify.svg
+          if git diff --staged --quiet; then
+            echo "No card change."
+          else
+            git commit -m "chore: refresh Spotify card [skip ci]"
+            git push
+          fi
